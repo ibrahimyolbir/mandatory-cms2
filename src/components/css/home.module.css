@@ -13,17 +13,26 @@
 }
 .selectSort{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     font-size: 12px;
     font-weight: 600;
+    margin: 1px 26px;
 }
-.selectSort>select{
-    width: 25%;
-    height: 56px;
-    padding: 53px;
+.sortProduct{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.sortProduct>span{
+    width: 100%;
+}
+.sortProduct>select{
+    width: 74px;
+    height: 26px;
     font-size: 16px;
+    margin-left: 16px;
 }
 .search{
  
@@ -52,10 +61,16 @@
     max-width: 185px;
 }
 .colorTag{
-
+    display: flex;
+    flex-direction: row
+}
+.clrsDiv{
+    margin-left: 20px;
 }
 .colors{
-
+    height: 16px;
+    width: 16px;
+    border-radius: 100%;
 }
 
 .images{

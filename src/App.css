@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 .App{
-  margin-top: 200px;
+  margin-top: 190px;
 }
 header{
   text-align: center;
@@ -12,7 +12,8 @@ header{
   top: 0px;
   width: 100%;
   background-color: #fff;
-  padding-top:25px
+  padding-top:25px;
+  z-index: 3;
 }
 header>h1{
   font-family: 'Barriecito', cursive;
@@ -41,4 +42,31 @@ header>ul>li>a{
 }
 header>ul>li>a:hover{
   cursor: pointer;
+}
+
+.shopping-cart{
+  position: absolute;
+  right: 6px;
+  top: 27px;
+  color: #2196F3;
+  cursor: pointer;
+  border: none;
+  background-color: #fff8dc00;
+
+}
+
+.shopping-cart>i{
+margin-right: 10px;
+}
+.ReactModal__Overlay{
+  z-index: 999;
+}
+
+.ReactModal__Content{
+  height: fit-content;
+  z-index: 999;
+  top: 190px !important;
+}
+.ReactModal__Body--open{
+  position: fixed;
 }
