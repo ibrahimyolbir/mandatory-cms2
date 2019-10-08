@@ -1,8 +1,8 @@
 {
+  "homepage": "https://ibrahimyolbir.github.io/mandatory-cms2",
   "name": "shoppingapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ibrahimyolbir.github.io/mandatory-cms2",
   "dependencies": {
     "@material-ui/core": "^4.4.1",
     "@material-ui/icons": "^4.4.1",
