@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mandatory-cms2/static/css/main.35bde46c.chunk.css",
+    "main.js": "/mandatory-cms2/static/js/main.6ff9807b.chunk.js",
+    "main.js.map": "/mandatory-cms2/static/js/main.6ff9807b.chunk.js.map",
+    "runtime~main.js": "/mandatory-cms2/static/js/runtime~main.3f9fd334.js",
+    "runtime~main.js.map": "/mandatory-cms2/static/js/runtime~main.3f9fd334.js.map",
+    "static/css/2.a00eef2d.chunk.css": "/mandatory-cms2/static/css/2.a00eef2d.chunk.css",
+    "static/js/2.3b3a191c.chunk.js": "/mandatory-cms2/static/js/2.3b3a191c.chunk.js",
+    "static/js/2.3b3a191c.chunk.js.map": "/mandatory-cms2/static/js/2.3b3a191c.chunk.js.map",
+    "index.html": "/mandatory-cms2/index.html",
+    "precache-manifest.5b0d1a569a53669ea065ac1aa9158767.js": "/mandatory-cms2/precache-manifest.5b0d1a569a53669ea065ac1aa9158767.js",
+    "service-worker.js": "/mandatory-cms2/service-worker.js",
+    "static/css/2.a00eef2d.chunk.css.map": "/mandatory-cms2/static/css/2.a00eef2d.chunk.css.map",
+    "static/css/main.35bde46c.chunk.css.map": "/mandatory-cms2/static/css/main.35bde46c.chunk.css.map"
+  }
+}
